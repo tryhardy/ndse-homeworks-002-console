@@ -1,0 +1,28 @@
+{
+  "name": "ndse-homeworks-002-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "current": "./current.js",
+    "add": "./add.js",
+    "sub": "./sub.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryhardy/ndse-homeworks-002-console.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tryhardy/ndse-homeworks-002-console/issues"
+  },
+  "homepage": "https://github.com/tryhardy/ndse-homeworks-002-console#readme",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
