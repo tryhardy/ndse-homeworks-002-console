@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "current": "./current.js",
-    "add": "./add.js",
-    "sub": "./sub.js",
+    "show-date": "./date.js",
     "readline": "./readline.js"
   },
   "scripts": {
